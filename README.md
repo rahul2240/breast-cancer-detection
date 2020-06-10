@@ -1,8 +1,15 @@
 # Breast Cancer Detection
 
 ## Predict IDC(+) or IDC(-)
-Applied different transfer learning models on the breast cancer images dataset from kaggle (link below) and achieved an accuracy of 86.97% with DenseNet121.
+Applied different transfer learning models on the [breast cancer images dataset](https://www.kaggle.com/paultimothymooney/breast-histopathology-images) and achieved an accuracy of 86.97% with DenseNet121.
+
+## Results
+![RESULT.png](https://github.com/rahul2240/breast-cancer-prediction/blob/master/RESULT.png)
+### Comparison with different transfer learning models
+![chart.png](https://github.com/rahul2240/breast-cancer-prediction/blob/master/chart.png)
  
+### Confusion matrix 
+![matrix.png](https://github.com/rahul2240/breast-cancer-prediction/blob/master/matrix.png)
 ## SETUP
 1. Download cancer.ipynb
 2. Download the dataset from https://www.kaggle.com/paultimothymooney/breast-histopathology-images .
